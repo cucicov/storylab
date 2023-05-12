@@ -8,7 +8,7 @@
 # Utilities
 CTRL+ALT+T - open terminal
 
-- file sensor_hall/read.py can be used for tests, it prints 1/2/3/4 for each of the sensors activated and 0 if no sensors are activated. To run it open terminal window and type ** python <full path to the file> **
+- file read.py can be used for tests, it prints 1/2/3/4 for each of the sensors activated and 0 if no sensors are activated. To run it open terminal window and type ** python <full path to the file> **
 
 - For PUCK, video plays continuously and cannot be stopped. Use **CTRL+ALT+T** to open terminal in the background and type ** sudo pkill python ** and then ** ENTER**. This will kill python script at the end of the playing video. Do this even if you dont see the terminal opening and the video is still playing, it will do all the things in the background. 
 
