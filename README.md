@@ -15,7 +15,7 @@ CTRL+ALT+T - open terminal
 - to make the script auto start at the launch on raspberry pi use **Method 1: rc.local** (https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/)
   - open terminal
   - sudo nano /etc/rc.local
-  - add this before the line ** exit 0 ** at the end of the file: **sudo python /home/pi/\<full path to the file\>**
+  - add this before the line **exit 0** at the end of the file: **sudo python /home/pi/\<full path to the file\>**
   - CTRL + X
   - Y
   - ENTER
