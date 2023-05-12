@@ -20,3 +20,5 @@ CTRL+ALT+T - open terminal
   - Y
   - ENTER
   - sudo reboot
+
+![alt text](https://github.com/cucicov/storylab/blob/main/GPIO.png)
